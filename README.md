@@ -1,4 +1,4 @@
-# About-me
+
 <h1 align="center">Hi 👋, I'm Ruslan Minnebaev</h1>
 <h3 align="center">A Data Scientist from Russia</h3>
 
