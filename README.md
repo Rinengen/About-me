@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rinengen](https://github.com/Rinengen)
 
-- 📝 I regularly write articles on [medical themes](medical themes)
+- 📝 I regularly write articles on medical themes
 
 - 📫 How to reach me **minil.ru.17@gmail.com**
 
