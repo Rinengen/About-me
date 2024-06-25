@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**CV-segmentation tubulitis**](https://github.com/Rinengen/Segmentations_and_detections_Tubulitis/tree/main)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rinengen](https://github.com/Rinengen)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rinengen)
 
 - 📝 I regularly write articles on medical themes
 
