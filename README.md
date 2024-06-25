@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinengen&label=Profile%20views&color=0e75b6&style=flat" alt="rinengen" /> </p>
 
-- 🔭 I’m currently working on **CV-segmentation tubulitis**
+- 🔭 I’m currently working on [**CV-segmentation tubulitis**](https://github.com/Rinengen/Segmentations_and_detections_Tubulitis/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rinengen](https://github.com/Rinengen)
 
